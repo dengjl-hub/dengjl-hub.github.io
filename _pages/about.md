@@ -7,15 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/dengjl-hub/dengjl-hub.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/dengjl-hub/dengjl-hub.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision.
 
 Honor and Award
 ======
-2023-2024学年，研究生国家奖学金
+2024，研究生国家奖学金
+
 2023，华为杯研究生数学建模竞赛全国三等奖
+
 2022，ACM-ICPC Reginal Bronze medal
-2020-2021学年，国家奖学金
-2018-2019学年，国家奖学金
+
+2021，国家奖学金
+
+2019学年，国家奖学金
 
 Getting started
 ======
