@@ -17,7 +17,7 @@ Honor and Award
 
 国家奖学金, 2019
 
-企业奖学金（腾讯、温氏筠城）
+企业奖学金（腾讯、温氏筠诚）
 
 Competition Award
 ======
