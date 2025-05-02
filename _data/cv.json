@@ -1,152 +1,99 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Jingliang Deng",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://dengjl-hub.github.io/",
+    "summary": "Obtaining a Master degree from South China University of Technology",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "GuangZhou",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=TO_BptYAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://github.com/dengjl-hub"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/dengjl-hub"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "South China University of Technology",
+      "area": "Master in Software Engineering and Computer Vision",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "South China University of Technology",
+      "area": "B.S. in Software Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2022",
+      "gpa": "3.88/4.00",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": ["Computer Vision Technology (CNN, Transformer, YOLO, Segment-Anything-Model, Vision model distill technology)", "backend development Tech Stack (Eg. MQ, Spring series, C++, CUDA, MySQL, Redis, ElasticSearch)"],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Spatial-semantic collaborative cropping for user generated content",
+      "publisher": "AAAI2024",
+      "releaseDate": "2024-03-24",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=TO_BptYAAAAJ&sortby=pubdate&citation_for_view=TO_BptYAAAAJ:qjMakFHDy7sC",
+      "summary": "A large amount of User Generated Content (\textbf{UGC}) is uploaded to the Internet daily and displayed to people world-widely through the client side (\eg mobile and PC). This requires the cropping algorithms to produce the aesthetic thumbnail within a specific aspect ratio on different devices. However, existing image cropping works mainly focus on landmark or landscape images, which fail to model the relations among the multi-objects with the complex background in UGC. Besides, previous methods merely consider the aesthetics of the cropped images while ignoring the content integrity, which is crucial for UGC cropping. In this paper, we propose a Spatial-Semantic Collaborative cropping network (S^2CNet) for arbitrary user generated content accompanied by a new cropping benchmark. Specifically, we first mine the visual genes of the potential objects. Then, the suggested adaptive attention graph recasts this task as a procedure of information association over visual nodes. The underlying spatial and semantic relations are ultimately centralized to the crop candidate through differentiable message passing, which helps our network efficiently to preserve both the aesthetics and the content integrity. Extensive experiments on the proposed UGCrop5K and other public datasets demonstrate the superiority of our approach over state-of-the-art counterparts."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Adaptive Locally-Aligned Transformer for low-light video enhancement",
+      "publisher": "Computer Vision and Image Understanding",
+      "releaseDate": "2024-03-01",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=TO_BptYAAAAJ&sortby=pubdate&citation_for_view=TO_BptYAAAAJ:u-x6o8ySG0sC",
+      "summary": "Low-light enhancement is a crucial task that aims to enhance the under-exposed input in computer vision. While state-of-the-art static single-image enhancement methods have made remarkable progress, yet, few attempts are explored the spatial-temporal sequence problem in low-light video enhancement. In this paper, we propose a simple yet highly effective method, termed as Adaptive Locally-Aligned Transformer (ALAT) for low-light video enhancement based on visual transformers. ALAT consists of three parts: feature encoder, locally-aligned transformer block (LATB) and pyramid feature decoder. Specifically, the transformer block enables the network to model the long-range spatial and appearance dependencies in videos due to its self-attention parallel computing mechanism. However, different from some previous approaches directly using the vanilla transformer, we consider that locality is significant in ..."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A unified transformer framework for group-based segmentation: Co-segmentation, co-saliency detection and video salient object detection",
+      "publisher": "IEEE Transactions on Multimedia",
+      "releaseDate": "2023-04-05",
+      "website": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=TO_BptYAAAAJ&sortby=pubdate&citation_for_view=TO_BptYAAAAJ:2osOgNQ5qMEC",
+      "summary": "Humans tend to mine objects by learning from a group of images or several frames of video since we live in a dynamic world. In the computer vision area, many researchers focus on co-segmentation (CoS), co-saliency detection (CoSD) and video salient object detection (VSOD) to discover the co-occurrent objects. However, previous approaches design different networks for these similar tasks separately, and they are difficult to apply to each other. Besides, they fail to take full advantage of the cues among inter- and intra-feature within a group of images. In this paper, we introduce a unified framework to tackle these issues from a unified view, term as UFGS ( U nified F ramework for G roup-based S egmentation). Specifically, we first introduce a transformer block, which views the image feature as a patch token and then captures their long-range dependencies through the self-attention mechanism. This can help the …"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "A unified transformer framework for group-based segmentation (Poster)",
+      "event": "The 19th Young Scientists Conference of the Chinese Society of Image and Graphics",
+      "date": "2023-12-31",
+      "location": "GuangZhou, China",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "Machine Learning (2024Fall)",
+      "institution": "South China University of Technology",
+      "date": "2024-09-01",
+      "role": "Bachelor course",
+      "description": "Teaching Assistance"
     }
   ]
 }
