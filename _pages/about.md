@@ -29,11 +29,27 @@ ACM-ICPC Regional Bronze medal, 2022
 
 GuangDong Province Programming Contest Silver medal, 2022
 
-HuBei Province Programming Contest Gold medal, 2021
+HuBei Province Programming Contest Golden medal, 2021
+
+Programming Contest Record
+======
+Ranking of the last 3 LeetCode contests
+| Contest name               | Number of solved problem | Ranking   | Number of Participants | Ranking Percentile | Link                                                                |
+|------------------------|--------|--------|----------|------------|----------------------------------------------------------------------|
+| weekly-contest-318      | 4    | 249     | 22819   | Top 1%    | [Contest Link](https://leetcode.cn/contest/weekly-contest-318/ranking/?region=global_v2)         |
+| weekly-contest-315      | 4    | 202 | 23449   | Top 1%    | [Contest Link](https://leetcode.cn/contest/weekly-contest-315/ranking/?region=global_v2)         |
+| biweekly-contest-89      | 4   | 90    | 20877   | Top 0.5%      | [Contest Link](https://leetcode.cn/contest/biweekly-contest-89/ranking/?region=global_v2)       |
+
+Ranking of the last 3 Codeforces contests
+| Contest name               | Number of solved problem | Ranking   | Number of Participants | Ranking Percentile | Link                                                                 |
+|------------------------|--------|--------|----------|------------|----------------------------------------------------------------------|
+| Codeforces Round 849 (Div. 4)	      | 8   | 93    | 23356   | Top 0.3%      | [Contest Link](https://codeforces.com/contest/1791/standings/participant/149105757#p149105757)       |
+| Codeforces Round 726 (Div. 2)      | 5   | 395     | 16403   | Top 2%    | [Contest Link](https://codeforces.com/contest/1537/standings/participant/115774504#p115774504)         |
+| Codeforces Round 723 (Div. 2)      | 4   | 632 | 14420   | Top 4%    | [Contest Link](https://codeforces.com/contest/1526/standings/participant/114687803#p114687803)         |
 
 # Journal Papers
 <div style="display: flex; align-items: center;">
-  <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
   <div>
     <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">A Unified Transformer Framework for Group-Based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection</a>
     <p style="color: #555; margin: 0;">Yukun Su , Jingliang Deng, Ruizhou Sun, Guosheng Lin , Member, IEEE, Hanjing Su, and Qingyao Wu</p>
@@ -47,7 +63,7 @@ HuBei Province Programming Contest Gold medal, 2021
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/files/thumbnails/alat.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <img src="/files/thumbnails/alat.png" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
   <div>
     <a href="/files/publications/ALAT.pdf" style="color: #0066c0; text-decoration: underline;">Adaptive Locally-Aligned Transformer for low-light video enhancement</a>
     <p style="color: #555; margin: 0;">Yiwen Cao, Yukun Su, Jingliang Deng, Yu Zhang, Qingyao Wu</p>
@@ -61,7 +77,7 @@ HuBei Province Programming Contest Gold medal, 2021
 </div>
 # Conference Papers
 <div style="display: flex; align-items: center;">
-  <img src="/files/thumbnails/aaai.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <img src="/files/thumbnails/aaai.png" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
   <div>
     <a href="/files/publications/AAAI.pdf" style="color: #0066c0; text-decoration: underline;">Spatial-Semantic Collaborative Cropping for User Generated Content</a>
     <p style="color: #555; margin: 0;">Yukun Su, Yiwen Cao, Jingliang Deng, Fengyun Rao, Qingyao Wu</p>
