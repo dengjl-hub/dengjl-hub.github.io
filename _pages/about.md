@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision.
+I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision. If you are interested in cooperation, please feel free to contact me.
 
 Honor and Award
 ======
@@ -78,6 +78,7 @@ Ranking of the last 3 Codeforces contests
     </div>
   </div>
 </div>
+
 # Conference Papers
 <div style="display: flex; align-items: center;">
   <img src="/files/thumbnails/aaai.png" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
@@ -92,3 +93,16 @@ Ranking of the last 3 Codeforces contests
     </div>
   </div>
 </div>
+
+# Professional skills
+1.熟悉使用Python，Java、C++等高级编程语言，以及相关的进程线程通信、同步互斥操作，掌握工厂、代理、组合等设计模式。
+
+2.熟悉Linux系统常用命令,熟练使用Java等高级语言实现相关的进程线程通信、进程同步互斥、文件管理等操作。
+
+3.熟悉MySQL相关概念（事务、锁、索引），熟练使用	SQL	进行数据分析，能从海量数据中提取关键信息，具备	SQL	调优能力。
+
+4.熟悉主流后端技术栈，包括Kafka、RabbitMQ等消息中间件；MySQL、Redis、ElasticSearch等数据库组件；Spring等后端应用开发框架。
+
+5.熟悉常用的数据分析与机器学习库，如	NumPy、Pandas、Scikit-learn、PyTorch	等，熟练完成数据处理、模型构建与训练。
+
+6.熟悉主流的CNN、ViT等视觉模型，具有基于PyTorch构建网络模型的能力，能够针对具体任务场景做针对性的技术选型。
