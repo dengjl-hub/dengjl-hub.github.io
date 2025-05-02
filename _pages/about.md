@@ -33,16 +33,16 @@ GuangDong Province Programming Contest Silver medal, 2022
 HuBei Province Programming Contest Gold medal, 2021
 
 # Journal Papers
-<div style="display: flex;">
-  <div style="width: 100px;">
-    <img src="/files/thumbnails/ufo.jpg" alt="thumbnail1">
-  </div>
-  <div style="margin-left: 10px;">
-    <h3><a href="/files/publications/ufo.pdf">Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting</a></h3>
-    <p>Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, and Shuaicheng Niu</p>
-    <a href="/files/publications/ufo.pdf">Pdf</a>
-    <a href="/files/publications/ufo.pdf">ArXiv</a>
-    <a href="/files/bibtex/ufo.txt">BibTex</a>
+<div style="display: flex; align-items: center;">
+  <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <div>
+    <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting</a>
+    <p style="color: #555; margin: 0;">Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, and Shuaicheng Niu</p>
+    <div style="margin-top: 5px;">
+      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
+      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
+      <a href="/files/bibtex/ufo.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
+    </div>
   </div>
 </div>
 
