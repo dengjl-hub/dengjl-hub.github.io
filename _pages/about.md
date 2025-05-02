@@ -6,33 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-/* 论文卡片容器 */
-.paper-container {
-  counter-reset: paper-count;
-}
-.paper-card {
-  counter-increment: paper-count;
-  position: relative;
-  padding: 1.5rem;
-  background: #f8f9fa;
-  border-radius: 8px;
-}
-.paper-card::before {
-  content: "P" counter(paper-count);
-  position: absolute;
-  right: -1rem;
-  top: -1rem;
-  font-size: 1.2rem;
-  color: #6c757d;
-}
-
-/* 响应式适配 */
-@media (max-width: 768px) {
-  .paper-card { flex-direction: column; }
-  .paper-thumbnail { margin-bottom: 1rem; }
-}
-</style>
 I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision.
 
 Honor and Award
@@ -62,8 +35,9 @@ HuBei Province Programming Contest Gold medal, 2021
 <div style="display: flex; align-items: center;">
   <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
   <div>
-    <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting</a>
-    <p style="color: #555; margin: 0;">Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, and Shuaicheng Niu</p>
+    <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">A Unified Transformer Framework for Group-Based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection</a>
+    <p style="color: #555; margin: 0;">Yukun Su , Jingliang Deng, Ruizhou Sun, Guosheng Lin , Member, IEEE, Hanjing Su, and Qingyao Wu</p>
+    <p style="color: #555; margin: 0;">TMM2023</p>
     <div style="margin-top: 5px;">
       <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
       <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
@@ -72,16 +46,30 @@ HuBei Province Programming Contest Gold medal, 2021
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/files/thumbnails/alat.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <div>
+    <a href="/files/publications/ALAT.pdf" style="color: #0066c0; text-decoration: underline;">Adaptive Locally-Aligned Transformer for low-light video enhancement</a>
+    <p style="color: #555; margin: 0;">Yiwen Cao, Yukun Su, Jingliang Deng, Yu Zhang, Qingyao Wu</p>
+    <p style="color: #555; margin: 0;">CVIU2024</p>
+    <div style="margin-top: 5px;">
+      <a href="/files/publications/ALAT.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
+      <a href="/files/publications/ALAT.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
+      <a href="/files/bibtex/alat.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
+    </div>
+  </div>
+</div>
 # Conference Papers
 <div style="display: flex; align-items: center;">
-  <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <img src="/files/thumbnails/AAAI.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
   <div>
-    <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting</a>
-    <p style="color: #555; margin: 0;">Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, and Shuaicheng Niu</p>
+    <a href="/files/publications/AAAI.pdf" style="color: #0066c0; text-decoration: underline;">Spatial-Semantic Collaborative Cropping for User Generated Content</a>
+    <p style="color: #555; margin: 0;">Yukun Su, Yiwen Cao, Jingliang Deng, Fengyun Rao, Qingyao Wu</p>
+    <p style="color: #555; margin: 0;">AAAI2024</p>
     <div style="margin-top: 5px;">
-      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
-      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
-      <a href="/files/bibtex/ufo.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
+      <a href="/files/publications/AAAI.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
+      <a href="/files/publications/AAAI.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
+      <a href="/files/bibtex/AAAI.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
     </div>
   </div>
 </div>
