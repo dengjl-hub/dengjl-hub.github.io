@@ -55,7 +55,7 @@ Ranking of the last 3 Codeforces contests
   <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
   <div>
     <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">A Unified Transformer Framework for Group-Based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection</a>
-    <p style="color: #555; margin: 0;">Yukun Su , Jingliang Deng, Ruizhou Sun, Guosheng Lin , Member, IEEE, Hanjing Su, and Qingyao Wu</p>
+    <p style="color: #555; margin: 0;">Yukun Su , Jingliang Deng, Ruizhou Sun, Guosheng Lin , Hanjing Su, and Qingyao Wu</p>
     <p style="color: #555; margin: 0;">TMM2023</p>
     <div style="margin-top: 5px;">
       <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
