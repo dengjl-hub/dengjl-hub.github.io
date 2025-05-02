@@ -61,7 +61,7 @@ HuBei Province Programming Contest Gold medal, 2021
 </div>
 # Conference Papers
 <div style="display: flex; align-items: center;">
-  <img src="/files/thumbnails/AAAI.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <img src="/files/thumbnails/aaai.png" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
   <div>
     <a href="/files/publications/AAAI.pdf" style="color: #0066c0; text-decoration: underline;">Spatial-Semantic Collaborative Cropping for User Generated Content</a>
     <p style="color: #555; margin: 0;">Yukun Su, Yiwen Cao, Jingliang Deng, Fengyun Rao, Qingyao Wu</p>
