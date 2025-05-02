@@ -71,40 +71,17 @@ HuBei Province Programming Contest Gold medal, 2021
     </div>
   </div>
 </div>
-## Journal Publications
-::: paper-container
-<div class="paper-card">
-  <div class="paper-thumbnail">
-    ![3D Reconstruction via Neural Radiance Fields](/files/thumbnails/ufo.jpg){: width="200" .left-image }
-  </div>
-  <div class="paper-info">
-    **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**  
-    *Jingliang Deng*, Ben Mildenhall, Pratul P. Srinivasan et al.  
-    [$$PDF$$](/files/publications/ufo.pdf) | [$$Code$$](https://github.com/dengjl/nerf)
-  </div>
-</div>
 
-<div class="paper-card">
-  <div class="paper-thumbnail">
-    ![Vision-Language Pre-training](/files/thumbnails/ufo.jpg){: .scale-75 }
-  </div>
-  <div class="paper-info">
-    **Unified Vision-Language Pre-training with Cross-modal Contrastive Learning**  
-    Jingliang Deng, Yang Liu, Wei Huang  
-    [$$PDF$$](/files/publications/ufo.pdf) | [$$Project Page$$](/files/publications/ufo.pdf)
-  </div>
-</div>
-:::
 # Conference Papers
-<div style="display: flex;">
-  <div style="width: 100px;">
-    <img src="/files/thumbnails/ufo.jpg" alt="thumbnail2">
-  </div>
-  <div style="margin-left: 10px;">
-    <h3><a href="/files/publications/ufo.pdf">论文标题示例</a></h3>
-    <p>作者署名示例</p>
-    <a href="/files/publications/ufo.pdf">Pdf</a>
-    <a href="/files/publications/ufo.pdf">ArXiv</a>
-    <a href="/files/bibtex/ufo.txt">BibTex</a>
+<div style="display: flex; align-items: center;">
+  <img src="/files/thumbnails/ufo.jpg" alt="论文缩略图" style="width: 100px; margin-right: 10px;">
+  <div>
+    <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting</a>
+    <p style="color: #555; margin: 0;">Mingkui Tan, Guohao Chen, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, and Shuaicheng Niu</p>
+    <div style="margin-top: 5px;">
+      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
+      <a href="/files/publications/ufo.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
+      <a href="/files/bibtex/ufo.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
+    </div>
   </div>
 </div>
