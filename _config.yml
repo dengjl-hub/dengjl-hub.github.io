@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Jingliang Deng"
+title                    : "Jingliang Deng's Homepage"
 title_separator          : "-"
 name                     : &name "邓景良"
 description              : &description "personal description"
