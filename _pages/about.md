@@ -11,15 +11,26 @@ I am a master student with the School of Software Engineering at South China Uni
 
 Honor and Award
 ======
-2024，研究生国家奖学金
+研究生国家奖学金, 2024
 
-2023，华为杯研究生数学建模竞赛全国三等奖
+国家奖学金, 2021
 
-2022，ACM-ICPC Reginal Bronze medal
+国家奖学金, 2019
 
-2021，国家奖学金
+企业奖学金（腾讯、温氏筠城）
 
-2019学年，国家奖学金
+Competition Award
+======
+
+华为杯研究生数学建模竞赛全国三等奖, 2023
+
+全国大学生电子商务“创新、创意及创业”挑战赛二等奖，2023&2024
+
+ACM-ICPC Regional Bronze medal, 2022
+
+GuangDong Province Programming Contest Silver medal, 2022
+
+HuBei Province Programming Contest Gold medal, 2021
 
 Getting started
 ======
