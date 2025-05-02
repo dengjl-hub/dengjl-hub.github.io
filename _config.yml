@@ -220,12 +220,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  journals:
-    output: true
-    permalink: /:collection/:path/
-  journals_main:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -267,24 +261,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _journals
-  - scope:
-      path: ""
-      type: journals
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _journals_main
-  - scope:
-      path: ""
-      type: journals_main
     values:
       layout: single
       author_profile: true
