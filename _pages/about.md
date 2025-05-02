@@ -64,3 +64,22 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://dengjl-hub.github.io/markdown/), the [growing wiki](https://github.com/dengjl-hub/dengjl-hub.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/dengjl-hub/dengjl-hub.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Journals
+----------
+<div>
+  <table>
+  {% for post in site.journals_main reversed %}
+    <tr>{% include publication.html %}</tr>
+  {% endfor %}
+  </table>
+   <a href="/journals/">
+    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+  </a>
+</div>
+
+<!-- <div margin-bottom:100px>
+  <a href="/journals/">
+    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+  </a>
+</div>  -->
