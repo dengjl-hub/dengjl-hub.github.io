@@ -6,7 +6,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+/* 论文卡片容器 */
+.paper-container {
+  counter-reset: paper-count;
+}
+.paper-card {
+  counter-increment: paper-count;
+  position: relative;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+.paper-card::before {
+  content: "P" counter(paper-count);
+  position: absolute;
+  right: -1rem;
+  top: -1rem;
+  font-size: 1.2rem;
+  color: #6c757d;
+}
 
+/* 响应式适配 */
+@media (max-width: 768px) {
+  .paper-card { flex-direction: column; }
+  .paper-thumbnail { margin-bottom: 1rem; }
+}
+</style>
 I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision.
 
 Honor and Award
@@ -45,7 +71,30 @@ HuBei Province Programming Contest Gold medal, 2021
     </div>
   </div>
 </div>
+## Journal Publications
+::: paper-container
+<div class="paper-card">
+  <div class="paper-thumbnail">
+    ![3D Reconstruction via Neural Radiance Fields](/files/thumbnails/ufo.jpg){: width="200" .left-image }
+  </div>
+  <div class="paper-info">
+    **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**  
+    *Jingliang Deng*, Ben Mildenhall, Pratul P. Srinivasan et al.  
+    [$$PDF$$](/files/publications/ufo.pdf) | [$$Code$$](https://github.com/dengjl/nerf)
+  </div>
+</div>
 
+<div class="paper-card">
+  <div class="paper-thumbnail">
+    ![Vision-Language Pre-training](/files/thumbnails/ufo.jpg){: .scale-75 }
+  </div>
+  <div class="paper-info">
+    **Unified Vision-Language Pre-training with Cross-modal Contrastive Learning**  
+    Jingliang Deng, Yang Liu, Wei Huang  
+    [$$PDF$$](/files/publications/ufo.pdf) | [$$Project Page$$](/files/publications/ufo.pdf)
+  </div>
+</div>
+:::
 # Conference Papers
 <div style="display: flex;">
   <div style="width: 100px;">
