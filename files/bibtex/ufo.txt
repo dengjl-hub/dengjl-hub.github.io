@@ -1,0 +1,9 @@
+@article{su2023unified,
+  title={A unified transformer framework for group-based segmentation: Co-segmentation, co-saliency detection and video salient object detection},
+  author={Su, Yukun and Deng, Jingliang and Sun, Ruizhou and Lin, Guosheng and Su, Hanjing and Wu, Qingyao},
+  journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={313--325},
+  year={2023},
+  publisher={IEEE}
+}
