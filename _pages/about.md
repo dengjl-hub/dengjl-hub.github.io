@@ -34,6 +34,7 @@ HuBei Province Programming Contest Golden medal, 2021
 Programming Contest Record
 ======
 Ranking of the last 3 LeetCode contests
+
 | Contest name               | Number of solved problem | Ranking   | Number of Participants | Ranking Percentile | Link                                                                |
 |------------------------|--------|--------|----------|------------|----------------------------------------------------------------------|
 | weekly-contest-318      | 4    | 249     | 22819   | Top 1%    | [Contest Link](https://leetcode.cn/contest/weekly-contest-318/ranking/?region=global_v2)         |
@@ -41,6 +42,7 @@ Ranking of the last 3 LeetCode contests
 | biweekly-contest-89      | 4   | 90    | 20877   | Top 0.5%      | [Contest Link](https://leetcode.cn/contest/biweekly-contest-89/ranking/?region=global_v2)       |
 
 Ranking of the last 3 Codeforces contests
+
 | Contest name               | Number of solved problem | Ranking   | Number of Participants | Ranking Percentile | Link                                                                 |
 |------------------------|--------|--------|----------|------------|----------------------------------------------------------------------|
 | Codeforces Round 849 (Div. 4)	      | 8   | 93    | 23356   | Top 0.3%      | [Contest Link](https://codeforces.com/contest/1791/standings/participant/149105757#p149105757)       |
