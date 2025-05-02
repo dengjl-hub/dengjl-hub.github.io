@@ -22,14 +22,14 @@ repository               : "dengjl-hub/dengjl-hub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/profile.jpg"
   name             : "Jingliang Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate student"
+  location         : "Guangzhou"
+  employer         : "South China University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jldeng0628@gmail.com" 
 
   # Academic websites
   academia         : # URL
