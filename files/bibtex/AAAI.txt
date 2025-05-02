@@ -1,0 +1,9 @@
+@inproceedings{su2024spatial,
+  title={Spatial-semantic collaborative cropping for user generated content},
+  author={Su, Yukun and Cao, Yiwen and Deng, Jingliang and Rao, Fengyun and Wu, Qingyao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={5},
+  pages={4988--4997},
+  year={2024}
+}
