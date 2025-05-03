@@ -27,6 +27,7 @@ Competition Award
 全国大学生电子商务“创新、创意及创业”挑战赛二等奖，2023&2024
 
 ACM-ICPC Regional Bronze medal, 2022
+
 GuangDong Province Programming Contest Silver medal, 2022
 
 HuBei Province Programming Contest Golden medal, 2021
