@@ -17,7 +17,7 @@ National Scholarship (国家奖学金), 2021([link](http://www.moe.gov.cn/srcsit
 
 National Scholarship (国家奖学金), 2019([link](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html))
 
-Enterprise Scholarship (腾讯奖学金), 2023；温氏筠诚奖学金，2023&2020
+Enterprise Scholarship: 腾讯奖学金, 2023；温氏筠诚奖学金，2023&2020
 
 Competition Award
 ======
