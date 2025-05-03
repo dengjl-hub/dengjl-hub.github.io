@@ -13,9 +13,9 @@ Honor
 ======
 Graduate National Scholarship (研究生国家奖学金), 2024([link](https://mp.weixin.qq.com/s/4PgNFWfQHiDW98lIBUDlBA))
 
-National Scholarship (国家奖学金), 2021([link](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html))
+National Scholarship (国家奖学金), 2021([link](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html))
 
-National Scholarship (国家奖学金), 2019([link](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html))
+National Scholarship (国家奖学金), 2019([link](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html))
 
 Enterprise Scholarship: 腾讯奖学金, 2023；温氏筠诚奖学金，2023&2020
 
