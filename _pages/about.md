@@ -32,7 +32,7 @@ GuangDong Province Programming Contest Silver medal, 2022
 
 HuBei Province Programming Contest Golden medal, 2021
 
-Programming Contest Record
+Programming Contest Record(Individual contest without teammates)
 ======
 Ranking of the last 3 LeetCode contests
 
@@ -94,7 +94,35 @@ Ranking of the last 3 Codeforces contests
   </div>
 </div>
 
+# Preprint Papers
+<div style="display: flex; align-items: center;">
+  <img src="/files/thumbnails/gdnet.png" alt="论文缩略图" style="width: 150px; margin-right: 10px;">
+  <div>
+    <a href="/files/publications/AAAI_.pdf" style="color: #0066c0; text-decoration: underline;">Generalized and Decoupled Framework for Co-salient Object Detection</a>
+    <p style="color: #555; margin: 0;">Jingliang Deng, Qingyao Wu</p>
+    <p style="color: #555; margin: 0;">Arxiv2024</p>
+    <div style="margin-top: 5px;">
+      <a href="/files/publications/AAAI_.pdf" style="color: #0066c0; text-decoration: underline;">Pdf</a>
+      <a href="/files/publications/AAAI_.pdf" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">ArXiv</a>
+      <a href="/files/bibtex/AAAI_.txt" style="color: #0066c0; text-decoration: underline; margin-left: 5px;">BibTex</a>
+    </div>
+  </div>
+</div>
+
 # Professional skills
+
+1. Be familiar with Python, Java, C++ and other high-level programming languages, as well as related process thread communication, synchronization and mutual exclusion operations, and master design patterns such as factories, agents, and combinations.
+
+2. Be familiar with common Linux system commands, and be proficient in using Java and other high-level languages ​​to implement related process thread communication, process synchronization and mutual exclusion, file management and other operations.
+
+3. Be familiar with MySQL-related concepts (transactions, locks, indexes), be proficient in using SQL for data analysis, be able to extract key information from massive data, and have SQL tuning capabilities.
+
+4. Be familiar with mainstream back-end technology stacks, including message middleware such as Kafka and RabbitMQ; database components such as MySQL, Redis, and ElasticSearch; and back-end application development frameworks such as Spring.
+
+5. Be familiar with commonly used data analysis and machine learning libraries, such as NumPy, Pandas, Scikit-learn, PyTorch, etc., and be proficient in data processing, model building and training.
+
+6. Be familiar with mainstream vision models such as CNN and ViT, have the ability to build network models based on PyTorch, and be able to make targeted technology selections for specific task scenarios.
+
 1.熟悉使用Python，Java、C++等高级编程语言，以及相关的进程线程通信、同步互斥操作，掌握工厂、代理、组合等设计模式。
 
 2.熟悉Linux系统常用命令,熟练使用Java等高级语言实现相关的进程线程通信、进程同步互斥、文件管理等操作。
