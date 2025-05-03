@@ -9,13 +9,13 @@ redirect_from:
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision. If you are interested in cooperation, please feel free to contact me.
 
-Honor and Award
+Honor
 ======
-研究生国家奖学金, 2024
+研究生国家奖学金, 2024([link](https://mp.weixin.qq.com/s/4PgNFWfQHiDW98lIBUDlBA))
 
-国家奖学金, 2021
+国家奖学金, 2021([link](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html))
 
-国家奖学金, 2019
+国家奖学金, 2019([link](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html))
 
 腾讯奖学金，2023；温氏筠诚奖学金，2023&2020
 
@@ -27,7 +27,6 @@ Competition Award
 全国大学生电子商务“创新、创意及创业”挑战赛二等奖，2023&2024
 
 ACM-ICPC Regional Bronze medal, 2022
-
 GuangDong Province Programming Contest Silver medal, 2022
 
 HuBei Province Programming Contest Golden medal, 2021
