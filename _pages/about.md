@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-I am a master student with the School of Software Engineering at South China University of Technology. Previously, I focused on Computer Programming Contest and obtained ICPC regional Bronze medal.  Currently, My research interests include backend development, deep learning and compuer vision. If you are interested in cooperation, please feel free to contact me.
+I am a master student with the School of Software Engineering at South China University of Technology. Previously, I received my bachelor's degree at SCUT.  Currently, My research interests include backend development, deep learning and compuer vision. If you are interested in cooperation, please feel free to contact me.
 
 Honor
 ======
